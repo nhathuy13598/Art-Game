@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="die1.png"	x="96"	y="61"	width="96"	height="61" frameX="-0" frameY="-0" frameWidth="96" frameHeight="61"/>
+	<SubTexture name="die2.png"	x="192"	y="0"	width="96"	height="61" frameX="-0" frameY="-0" frameWidth="96" frameHeight="61"/>
+	<SubTexture name="die3.png"	x="0"	y="183"	width="96"	height="61" frameX="-0" frameY="-0" frameWidth="96" frameHeight="61"/>
+	<SubTexture name="walk1.png"	x="0"	y="122"	width="96"	height="61" frameX="-0" frameY="-0" frameWidth="96" frameHeight="61"/>
+	<SubTexture name="walk2.png"	x="0"	y="61"	width="96"	height="61" frameX="-0" frameY="-0" frameWidth="96" frameHeight="61"/>
+	<SubTexture name="walk3.png"	x="0"	y="0"	width="96"	height="61" frameX="-0" frameY="-0" frameWidth="96" frameHeight="61"/>
+	<SubTexture name="walk4.png"	x="96"	y="0"	width="96"	height="61" frameX="-0" frameY="-0" frameWidth="96" frameHeight="61"/>
+	<SubTexture name="walk5.png"	x="96"	y="183"	width="96"	height="61" frameX="-0" frameY="-0" frameWidth="96" frameHeight="61"/>
+	<SubTexture name="walk7.png"	x="96"	y="122"	width="96"	height="61" frameX="-0" frameY="-0" frameWidth="96" frameHeight="61"/>
+</TextureAtlas>

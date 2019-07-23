@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" source="Tileset.tsx"/>
+ <layer name="Tile Layer 2" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt0UsKwkAQRdGeqPgf+1lBdAXq/tdlDWyMwYiGaIQ+B+6sBgUvJeBTo2h8azLwL7y2jFa11sO+Az+xjQ61dsO+U7Qq2kTnWvvo2HI/jWbpvt08Wnz/zWKc0uMWuUvjLu/Q3C7vZ5d+vLvHs5u2Xeiuzz1ydGeP/2IPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgDJdAeSPFgI=
+  </data>
+ </layer>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1UsKwjAUBdAo+JkKgk616gKs6BJ0/ysyhYpBA1UoVu05cEe5hEcepYsQwqLONGYZnh2TTpVTppM6x1waOnzWrusBftS4zqTle+3juxy7HgCgwSjc/0nQF+uYIsmm23H+VpFJ7q1XMWWSbcO9gxZn7JMyk8NDp/o2Zg+decjvrdrDsO7zvlf2sX+hl+7hdg4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADA97sCAMcKDA==
+  </data>
+ </layer>
+ <layer name="Decor2" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztziEOgDAQRNFeFAS0Eg7A6VlBsJUTyHvJZM2K3xpf0Gt7bUuHMDWeu0cr4HuW2pqO4HXUztqVDoGgng74sTF/AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAqBuTIQTL
+  </data>
+ </layer>
+ <layer name="Decor 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1UsKwjAQANBe0YX43YggVN2oO09vCwnEUouhrVZ8D4YhJQNDhiZFwZTsQl41vl+quIa4tdStx2yKoszcfwy5nuNy4F7In0ffOrrFc4331j2zjmGVjZxTt0/W6btDf+/MY1PFduxG/lh6vl3ziHfZqYrzqB39t/R863nMX+zzVkzDLOTmPBafboQn/o/vOSQRtc2juQcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA3/IAoZQTGg==
+  </data>
+ </layer>
+</map>
